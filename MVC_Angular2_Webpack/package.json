@@ -26,10 +26,10 @@
     "zone.js": "^0.6.23",
     "angular2-in-memory-web-api": "0.0.20",
     "bootstrap": "^3.3.6",
-    "es6-shim":  "^0.35.1" 
+    "es6-shim": "^0.35.1"
   },
   "devDependencies": {
-     "angular2-template-loader": "^0.4.0",
+    "angular2-template-loader": "^0.4.0",
     "awesome-typescript-loader": "^2.2.4",
     "css-loader": "^0.23.1",
     "extract-text-webpack-plugin": "^1.0.1",
@@ -42,10 +42,12 @@
     "karma-phantomjs-launcher": "^1.0.2",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^1.8.0",
+    "node-sass": "^3.13.0",
     "null-loader": "^0.1.1",
     "phantomjs-prebuilt": "^2.1.7",
     "raw-loader": "^0.5.1",
     "rimraf": "^2.5.2",
+    "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
     "ts-loader": "^0.8.1",
     "typescript": "^2.0.2",
